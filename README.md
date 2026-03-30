@@ -9,22 +9,41 @@
 
 ---
 
-![Dashboard Screenshot](images/img1.png)
+### Creating CSV
+Creating a csv to import new users in PowerShell.<br><br>
+![Dashboard Screenshot](images/img1.png)<br><br><br>
+
+---
+---
+
+### PowerShell Scripts
+These are the scripts I used to import new users, assign them to specific OUs, and also move existing users to their deisgnated OUs.<br><br>
 ![Dashboard Screenshot](images/img2.png)
-![Dashboard Screenshot](images/img3.png)
+![Dashboard Screenshot](images/img3.png)<br><br><br>
+
+---
+---
+
+### User OUs
+Showing the finished product.<br><br>
 ![Dashboard Screenshot](images/img4.png)
 ![Dashboard Screenshot](images/img5.png)
-![Dashboard Screenshot](images/img6.png)
-![Dashboard Screenshot](images/img7.png)
+![Dashboard Screenshot](images/img6.png)<br><br><br>
+
+---
+---
+
+### Security Groups
+Creating security groups and assigning users to them.<br><br>
 ![Dashboard Screenshot](images/img8.png)
-![Dashboard Screenshot](images/img9.png)
+![Dashboard Screenshot](images/img9.png)<br><br><br>
+
+---
+---
+
+### Adding to HR Security Group
+It wouldn't let me assign "Brittany" to the HR security group through PowerShell so I thought it would be a good idea to show my knowledge of doing so in Active Directory.<br><br>
 ![Dashboard Screenshot](images/img10.png)
 ![Dashboard Screenshot](images/img11.png)
 ![Dashboard Screenshot](images/img12.png)
-![Dashboard Screenshot](images/img13.png)
-![Dashboard Screenshot](images/img14.png)
-![Dashboard Screenshot](images/img15.png)
-![Dashboard Screenshot](images/img16.png)
-![Dashboard Screenshot](images/img17.png)
-![Dashboard Screenshot](images/img18.png)
-![Dashboard Screenshot](images/img19.png)
+![Dashboard Screenshot](images/img13.png)<br><br><br>
