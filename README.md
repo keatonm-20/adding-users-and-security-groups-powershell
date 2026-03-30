@@ -42,7 +42,7 @@ Creating security groups and assigning users to them.<br><br>
 ---
 
 ### Adding to HR Security Group
-It wouldn't let me assign "Brittany" to the HR security group through PowerShell so I thought it would be a good idea to show my knowledge of doing so in Active Directory.<br><br>
+It wouldn't let me assign "Brittany" to the HR security group through PowerShell so I thought it would be a good idea to show my knowledge of doing so in Active Directory (Even when I made the B lowercase it still didn't work).<br><br>
 ![Dashboard Screenshot](images/img10.png)
 ![Dashboard Screenshot](images/img11.png)
 ![Dashboard Screenshot](images/img12.png)
